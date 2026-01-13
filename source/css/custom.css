@@ -1,0 +1,127 @@
+.landing-hero {
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  align-items: center;
+  margin-top: 1.5rem;
+}
+
+.landing-hero__eyebrow {
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  font-size: 0.75rem;
+  color: #718096;
+  margin-bottom: 0.75rem;
+}
+
+.landing-hero__lead {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  margin: 1rem 0 1.5rem;
+}
+
+.landing-hero__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.landing-hero__card {
+  background: rgba(26, 32, 44, 0.05);
+  border-radius: 16px;
+  padding: 1.5rem;
+}
+
+.landing-hero__card ul {
+  margin: 0.75rem 0 0;
+  padding-left: 1.25rem;
+}
+
+.landing-section {
+  margin: 3rem 0;
+}
+
+.landing-section--highlight {
+  background: linear-gradient(135deg, rgba(59, 130, 246, 0.1), rgba(16, 185, 129, 0.08));
+  border-radius: 20px;
+  padding: 2rem;
+}
+
+.landing-grid {
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
+
+.landing-card {
+  border: 1px solid rgba(148, 163, 184, 0.35);
+  border-radius: 16px;
+  padding: 1.25rem 1.5rem;
+  background: #fff;
+  box-shadow: 0 10px 25px rgba(15, 23, 42, 0.05);
+}
+
+.landing-timeline {
+  list-style: none;
+  padding: 0;
+  margin: 1.5rem 0 0;
+  display: grid;
+  gap: 1.5rem;
+}
+
+.landing-timeline li {
+  background: #fff;
+  border-radius: 14px;
+  padding: 1.25rem 1.5rem;
+  box-shadow: 0 8px 20px rgba(15, 23, 42, 0.06);
+}
+
+.landing-contact {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: center;
+  margin-top: 1rem;
+}
+
+.landing-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.6rem 1.4rem;
+  border-radius: 999px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.landing-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 18px rgba(15, 23, 42, 0.15);
+}
+
+.landing-button--primary {
+  background: #2563eb;
+  color: #fff;
+}
+
+.landing-button--ghost {
+  border: 1px solid rgba(37, 99, 235, 0.4);
+  color: #2563eb;
+}
+
+@media (prefers-color-scheme: dark) {
+  .landing-hero__card {
+    background: rgba(148, 163, 184, 0.15);
+  }
+
+  .landing-card,
+  .landing-timeline li {
+    background: #1f2937;
+    border-color: rgba(148, 163, 184, 0.2);
+  }
+
+  .landing-section--highlight {
+    background: linear-gradient(135deg, rgba(96, 165, 250, 0.18), rgba(16, 185, 129, 0.16));
+  }
+}
