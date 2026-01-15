@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>我的第一篇</title>
+    <link href="/Esonk/2026/01/13/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87/"/>
+    <url>/Esonk/2026/01/13/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87/</url>
+    
+    <content type="html"><![CDATA[<h2 id="大模型不是“工具升级”，而是“规则更换”"><a href="#大模型不是“工具升级”，而是“规则更换”" class="headerlink" title="大模型不是“工具升级”，而是“规则更换”"></a>大模型不是“工具升级”，而是“规则更换”</h2><p>多数人仍把 AI 当作更聪明的搜索引擎或更快的外包工，这个判断已经过时。大模型的意义不是效率提升，而是<strong>生产关系的改写</strong>：从“人组织工具”变成“人组织模型与生态”。谁掌握模型入口、数据闭环、调用路径，谁就重新定义价值分配。所谓“AI 赋能”，只是旧体系最后的修辞。</p><h2 id="指数级发展最恐怖的地方是：它像常识一样悄悄发生"><a href="#指数级发展最恐怖的地方是：它像常识一样悄悄发生" class="headerlink" title="指数级发展最恐怖的地方是：它像常识一样悄悄发生"></a>指数级发展最恐怖的地方是：它像常识一样悄悄发生</h2><p>指数增长不是暴涨，而是<strong>你还没意识到，拐点已经过去</strong>。模型能力的跃迁看似偶发，实则是算力、数据、算法协同的必然。当生产工具每 12-18 个月换一代，人类组织的反应速度必然落后。行业里最大风险不是“被 AI 取代”，而是<strong>被更会用 AI 的人取代</strong>。</p><h2 id="大-AI-时代已经到来，但大多数人还在“前-AI-时代”思考"><a href="#大-AI-时代已经到来，但大多数人还在“前-AI-时代”思考" class="headerlink" title="大 AI 时代已经到来，但大多数人还在“前 AI 时代”思考"></a>大 AI 时代已经到来，但大多数人还在“前 AI 时代”思考</h2><p>很多公司还在讨论“要不要上 AI”，这等于在电力时代讨论“要不要用电”。真正的问题是：你业务里哪一块可以被模型化，哪一块要被重构，哪一块必须保留人类的不可替代性。<strong>模型化就是可复制，可复制就会被卷到极致</strong>。不想被卷，就必须把价值放到更难复制的地方。</p><h2 id="未来的分层会很残酷：只有两种人会长期站在牌桌上"><a href="#未来的分层会很残酷：只有两种人会长期站在牌桌上" class="headerlink" title="未来的分层会很残酷：只有两种人会长期站在牌桌上"></a>未来的分层会很残酷：只有两种人会长期站在牌桌上</h2><p>第一种是<strong>把 AI 变成杠杆的人</strong>：用模型驱动更大规模的决策、更快的实验、更小的边际成本。第二种是<strong>掌握稀缺人类能力的人</strong>：比如审美、叙事、信任、判断与责任。这两类人都不是“会用 AI”，而是“以 AI 重塑工作流与价值链”。</p><h2 id="结语：不要低估这个时代的“重力”"><a href="#结语：不要低估这个时代的“重力”" class="headerlink" title="结语：不要低估这个时代的“重力”"></a>结语：不要低估这个时代的“重力”</h2><p>AI 不是一阵风，是重力场。它会把效率、资本与注意力重新压缩到少数节点。如果你还在用旧世界的路径规划新世界的旅程，最终只会发现：你努力攀登的那座山，在新地图里已经不存在了。</p><p>现在的问题不是“AI 会不会来”，而是<strong>你能否在它到来前完成自我重写</strong>。</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>AI</tag>
+      
+      <tag>观察</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/Esonk/2026/01/13/hello-world/"/>
+    <url>/Esonk/2026/01/13/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
